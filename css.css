@@ -1,0 +1,263 @@
+body {
+    background-color: #212121;
+    background-image: url(ZDJ/tlo.png);
+    background-position: center;
+    background-size: 200px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 !important;
+    opacity: 0.90;
+    text-align: center;
+    display: block;
+}
+
+a:link,
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+.format {
+    width: 100%;
+    height: 100%;
+    
+   
+}
+
+.gora
+{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.logo {
+    
+
+width: 35%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.nazwa {
+    color: white;
+    font-size: 100px;
+    letter-spacing: 5px;
+    font-weight: 600;
+    width: 65%;
+    text-align: left;
+   
+}
+
+
+.nazwa2 {
+   
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+      text-align: left;
+}
+
+.menu {
+    
+    display: flex;
+    background-color: #FBA83C;
+    text-align: center;
+    border-top: 2px solid #D28D32;
+    border-bottom: 2px solid #D28D32;
+    width: 100%;
+    height: 100px;
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+
+
+}
+
+.przycisk
+{
+    display: flex;
+    height: 100%;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+}
+.przycisk a
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 24px;
+}
+
+
+.przycisk:hover{
+    background: #d9861a;
+    transition: background .2s ease-in-out;
+}
+
+
+
+.zawartosc {
+    width:auto;
+    background-color: ;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    margin-top: 1px;
+    text-align: center;
+     align-content: center;
+    align-items: center;
+        
+
+}
+
+.zawartosc img
+{
+ padding: 5px;   
+    
+    
+}
+  
+    
+}
+
+#rek {
+    color: white;
+    text-align: center;
+    font-size: 200px;
+    margin-top: 100px;
+}
+
+.Danie {
+    color: white;
+
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    padding:5px;
+    
+}
+
+
+
+#rek3 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 60px;
+    padding-bottom: 120px;
+    letter-spacing: 3px;
+    line-height: 75px;
+}
+
+.kontakt
+{
+color: white;
+font-size:36px;
+text-align: center;
+    margin: 10%;
+}
+
+
+.koniec {
+    height: 150px;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3%;
+    align-content: center;
+    align-items: center;
+    padding-bottom:0px;
+    
+}
+
+
+
+.Formularz
+{
+color: white;
+    font-size: 50px;
+    width: 60%;
+    height: 100%;
+padding: 5%;
+   text-align: right;
+    margin: 1%;
+    font-family: 'Montserrat', sans-serif;
+}
+.Formularz input
+{
+    font-size: 50px;
+     margin: 1%;
+}
+
+#stolik
+{
+
+ font-size: 50px; 
+    margin: 1%;
+}
+#stolik option
+{
+
+ font-size: 25px; 
+  
+}
+.socialmedia{
+    display: block;
+    width: 33%;
+    padding: 15px 10px;
+    border-radius: 5px;
+    flex: auto;
+    text-align: center;
+    margin: 0 1%;
+    
+        
+    
+}
+.fb, .insta, .twitter{
+    background-color: #3f3f3f;
+    transition: background .4s ease-in-out;
+}
+.fb:hover{
+    background: #3b5998;
+}
+.insta:hover{
+    background: linear-gradient(-90deg,#e56969,#c1558b);
+}
+.twitter:hover{
+    background: #00acee;
+}
+
+
+
+
+.stopka
+{
+  margin: 0 !important;
+    opacity: 0.50;
+   width: 100%;
+    height:50px;
+    background-color: black;
+    color: white;
+    padding-top:25px;
+    
+        
+    
+}
+
+
+    
+
+
